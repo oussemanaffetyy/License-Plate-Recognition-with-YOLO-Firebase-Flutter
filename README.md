@@ -28,8 +28,6 @@ Follow these steps to set up the project:
 
 First, clone the repository to your local machine.
 
-```bash
-git clone https://github.com/THU-MIG/yolov10.git
 
 ```bash
 git clone https://github.com/THU-MIG/yolov10.git
