@@ -1,0 +1,5 @@
+huggingface-hub
+paddleocr
+paddlepaddle
+db-sqlite3
+firebase_admin
